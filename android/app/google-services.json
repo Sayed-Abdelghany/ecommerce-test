@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630537701438",
+    "project_id": "mallsouq",
+    "storage_bucket": "mallsouq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630537701438:android:31e4f319e0af17dd63e96f",
+        "android_client_info": {
+          "package_name": "com.name.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630537701438-6i6ko3gmu8qr3ue3guub04c4ul8pf77d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kMy7DD0A4lOni7M0joNKNXnLqlotCAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630537701438-6i6ko3gmu8qr3ue3guub04c4ul8pf77d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
